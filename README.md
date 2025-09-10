@@ -1,5 +1,3 @@
-# my_love_ishuu
-my_love_ishuu
 <!DOCTYPE html>
 <html lang="en">
 <head>
